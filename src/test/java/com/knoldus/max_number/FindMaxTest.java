@@ -16,6 +16,7 @@ class FindMaxTest {
                 ()->assertEquals(93,findMax.calculateMax(93,10)),
                 ()->assertEquals(11,findMax.calculateMax(11,11)));
 
+
     }
 
 }
